@@ -1,3 +1,1 @@
-### Hi there
-
-GitHub Pro Student?
+Recent Master’s graduate in Computer Science with a strong eye for detail and a passion for continuous learning. Skilled in problem-solving, communication, and teamwork, with a proven ability to explain complex concepts clearly. Eager to apply technical knowledge in a collaborative environment and contribute to innovative projects. In my free time, I code many Bash scripts to have the most powerful Linux desktop.
